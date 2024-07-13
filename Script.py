@@ -17,7 +17,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ. Jᴜsᴛ Aᴅᴅ Mᴇ I�
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› : <b>Unavailable</b>
 
-<b>ᴅᴇᴠ: <a href=https://t.me/khallmhetyler>𝙏𝙔𝙇𝙀𝙍™️</a></b>"""
+<b>ᴅᴇᴠ: <a href=https://t.me/khallmhetyler1>𝙏𝙔𝙇𝙀𝙍™️</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
